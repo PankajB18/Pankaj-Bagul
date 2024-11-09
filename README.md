@@ -5,7 +5,7 @@
 I’m a data science enthusiast with a background in human resources and data analysis. Currently working as a Data Science Faculty and pursuing an MBA in Data Science, I am passionate about using data to drive insights and decisions. 
 
 ### 🌐 Find Me On:
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://linkedin.com/in/pankaj-bagul/)  
 - [Email](mailto:bagulpankaj188@gmail.com)
 
 ### 💼 Professional Summary
