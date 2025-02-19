@@ -2,14 +2,14 @@
 **Data Science Professional | HR Specialist | MBA in Data Science**
 
 ### 👋 Welcome to My GitHub
-I’m a data science enthusiast with a background in human resources and data analysis. Currently working as a Data Science Faculty and pursuing an MBA in Data Science, I am passionate about using data to drive insights and decisions. 
+I’m a data science enthusiast with a background in human resources and data analysis. Currently working as a Data Science Trainer and pursuing an MBA in Data Science, I am passionate about using data to drive insights and decisions. 
 
 ### 🌐 Find Me On:
 - [LinkedIn](https://linkedin.com/in/pankaj-bagul/)  
 - [Email](mailto:bagulpankaj188@gmail.com)
 
 ### 💼 Professional Summary
-- **Experience**: Over 4 years in HR and Data Analysis, with hands-on experience in Python, R, SQL, Power BI, and Tableau.
+- **Experience**: Over 5 years in HR and Data Analysis, with hands-on experience in Python, R, SQL, Power BI, and Tableau.
 - **Current Role**: Data Science Faculty, guiding students in Python, R, Machine Learning, and Visualization.
 - **Education**: MBA in Data Science, B.A. in Psychology
 
